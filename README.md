@@ -2,6 +2,12 @@
 
 A classic Snake game implementation using Pygame. This is a modern recreation of the iconic Nokia phone game where players control a snake to eat apples and grow longer while avoiding collisions.
 
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4027588e-6226-4769-ba20-3f58bb8a4f10" alt="Snake Game GIF">
+</p>
+
 ## 🎮 Game Features
 
 - Smooth snake movement with arrow key controls
